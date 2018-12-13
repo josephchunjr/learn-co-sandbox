@@ -1,0 +1,16 @@
+
+    p {
+      color: red;
+      font-size: 12px;
+      text-decoration: bold;
+      }
+      .someClass {
+        color: blue;
+      }
+      #someId {
+        color: green;
+      }
+    span {
+      color: yellow;
+    }
+
