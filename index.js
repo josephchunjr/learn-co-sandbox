@@ -7,6 +7,7 @@
 
 function whenDataIsLoaded(data) {
   console.log(data)
+  const body = document.querySelector("")
 }
 
 function putNameOnPage (githubJson) {
