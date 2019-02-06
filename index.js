@@ -7,7 +7,8 @@
 
 function whenDataIsLoaded(data) {
   console.log(data)
-  const body = document.querySelector("")
+  const div = document.querySelector('username')
+  div.innerHTML = username
 }
 
 function putNameOnPage (githubJson) {
